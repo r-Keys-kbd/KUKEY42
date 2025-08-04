@@ -36,7 +36,7 @@
 |キーキャップ|42個|17mmピッチ対応品|[Kotori Blank(Proto)](https://booth.pm/ja/items/6781056)|
 |トラックボールケース|1個|25mm用がおすすめ|[Kinoyaさん](https://kinoya.booth.pm/items/6064755)|
 |トラックボール|1個|サイズはトラックボールケースに合わせてご準備ください|[M-B25RD](https://www.elecom.co.jp/products/M-B25RD.html)|
-|リチウムイオンバッテリー|2個|厚さ4mm以下、JST1.25mmコネクタ|[Amazonリンク](https://www.amazon.co.jp/dp/B0D4VK35RJ?ref=ppx_yo2ov_dt_b_fed_asin_title)|
+|リチウムポリマーバッテリー|2個|厚さ4mm以下、JST1.25mmコネクタ|[Amazonリンク](https://www.amazon.co.jp/dp/B0D4VK35RJ?ref=ppx_yo2ov_dt_b_fed_asin_title)|
 
 ### 組立てに必要な道具
 |品名|備考|
@@ -181,11 +181,14 @@
 ### 3.1. ファームウェアのダウンロード
 　(1) [ファームウェアのリポジトリ](https://github.com/r-Keys-kbd/zmk-config-KUKEY42)にアクセスする
  
-　(2) "Actions"タブを開く
+　(2) "Actions"タブを開く\
+　　<img src="./img/FirmwareDL_1.jpg" width=480>
 
-　(3) 最新のWorkflowを開く
+　(3) 最新のWorkflowを開く\
+　　<img src="./img/FirmwareDL_2.jpg" width=480>
 
-　(4) ArtifactsのFirmwareをクリックするとダウンロードが開始される
+　(4) ArtifactsのFirmwareをクリックするとダウンロードが開始される\
+　　<img src="./img/FirmwareDL_3.jpg" width=480>
 
 　(5) ダウンロードしたZIPファイルには下記3つのファイルが入っている
 |ファイル名|備考|
@@ -223,20 +226,39 @@
 
 　(2) [ファームウェアのリポジトリ](https://github.com/r-Keys-kbd/zmk-config-KUKEY42)にアクセスする
 
-　(3) 画面右上の「Fork」をクリックする
+　(3) 画面右上の「Fork」をクリックする\
+　　<img src="./img/Firmware_1.jpg" width=480>
 
-　(4) 設定は変更せずに、"Create fork"をクリックする
+　(4) 設定は変更せずに、"Create fork"をクリックする\
+　　<img src="./img/Firmware_2.jpg" width=480>
 
-　(5) フォークしたリポジトリの"Actions"タブをクリックする
+　(5) フォークしたリポジトリの"Actions"タブをクリックする\
+　　<img src="./img/Firmware_3.jpg" width=480>
 
-　(6) "I understand my workflows, go ahead and enable them"をクリックし、github Actionsを有効化する
+　(6) "I understand my workflows, go ahead and enable them"をクリックし、github Actionsを有効化する\
+　　<img src="./img/Firmware_4.jpg" width=480>
 
 ### 4.2. KeymapEditorの場合
 　(1) [KeymapEditor](https://nickcoutsos.github.io/keymap-editor/)にアクセスする
 
-　(2) "GitHub"を選択する
+　(2) "GitHub"を選択し、"Login with GitHub"をクリックする\
+ 　　<img src="./img/KeymapEditor_1.jpg" width=480>
 
-　(3) すみません、未完成です（TO-DO）
+　(3) "Authorize Keymap Editor"をクリックする\
+ 　　<img src="./img/KeymapEditor_2.jpg" width=480>
+   
+　(4) "Add Repository"をクリックする\
+ 　　<img src="./img/KeymapEditor_3.jpg" width=480>
+   
+　(5) "Only select repositories"をクリックする\
+　(6) "Select repositories"でForkした"zmk-config-KUKEY42"を選択する\
+　(7) "Install"をクリックする\
+ 　　<img src="./img/KeymapEditor_4.jpg" width=480>
+   
+　(8) 自分好みにキーマップをカスタマイズしたら、Saveする\
+ 　　<img src="./img/KeymapEditor_5.jpg" width=480>
+
+　(9) 自動でFirmwareのビルドが開始されるので、完了したら、デフォルトのFirmwareと同様の手順でダウンロードする
  
 ### 4.3. ZMK Studioの場合
 　(1) [ZMK Studio](https://zmk.studio/)にアクセスする
