@@ -151,18 +151,9 @@
 
 ## 3. ファームウェア
 ### 3.1. ファームウェアのダウンロード
-　(1) [ファームウェアのリポジトリ](https://github.com/r-Keys-kbd/zmk-config-KUKEY42)にアクセスする
- 
-　(2) "Actions"タブを開く\
-　　<img src="./img/FirmwareDL_1.jpg" width=480>
+　(1) [ファームウェアのダウンロードリンク](https://github.com/r-Keys-kbd/KUKEY42-Firmware/archive/refs/tags/v2.0.0.zip)にアクセスする
 
-　(3) 最新のWorkflowを開く\
-　　<img src="./img/FirmwareDL_2.jpg" width=480>
-
-　(4) ArtifactsのFirmwareをクリックするとダウンロードが開始される\
-　　<img src="./img/FirmwareDL_3.jpg" width=480>
-
-　(5) ダウンロードしたZIPファイルには下記3つのファイルが入っている
+　(2) ダウンロードしたZIPファイルには下記3つのファイルが入っている
 |ファイル名|備考|
 |---|---|
 |KUKEY42_L rgbled_adapter-seeeduino_xiao_ble-zmk.uf2|左側用ファームウェア|
