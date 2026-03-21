@@ -14,7 +14,7 @@
 |水平ロータリーエンコーダ（クリック付き）|1個|[THQWGD001C](https://tarohayashi.booth.pm/items/5967252) [^1] |
 |BLEマイコン|2個|ハンダ済 Seeed Studio XIAO nRF52840|
 |7ピンL字コンスルー|1個||
-|トラックボール読取り基板|1個|roBaオープンソース使用[リンク](https://github.com/kumamuk-git/roBa/tree/main/pcb/pmw3610_breakout_for_roBa) [^2]|
+|トラックボール読取り基板|1個||
 |トラックボールセンサ|1個|PMW3610DM|
 |トラックボールセンサレンズ|1個||
 |トッププレート|1セット|アルミ|
