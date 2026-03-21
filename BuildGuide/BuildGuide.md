@@ -7,11 +7,12 @@
 |---|---|---|
 |メイン基板|1セット||
 |Kailh Switch Socket|42個|ロープロファイル用|
-|ダイオード|44個|予備（2個）|
-|スライドスイッチ|2個|電源スイッチ|
-|JST1.25mmコネクタケーブル|2本|バッテリー接続用|
+|ダイオード|42個|ハンダ済|
+|スライドスイッチ|2個|ハンダ済 JS102011SAQN|
+|リセットスイッチ|2個|ハンダ済 SKSCLDE010|
+|JST1.25mmバッテリーコネクタ|2個|ハンダ済 1.25-2PWB|
 |水平ロータリーエンコーダ（クリック付き）|1個|[THQWGD001C](https://tarohayashi.booth.pm/items/5967252) [^1] |
-|BLEマイコン|2個|Seeed Studio XIAO nRF52840|
+|BLEマイコン|2個|ハンダ済 Seeed Studio XIAO nRF52840|
 |7ピンL字コンスルー|1個||
 |トラックボール読取り基板|1個|roBaオープンソース使用[リンク](https://github.com/kumamuk-git/roBa/tree/main/pcb/pmw3610_breakout_for_roBa) [^2]|
 |トラックボールセンサ|1個|PMW3610DM|
@@ -19,13 +20,14 @@
 |トッププレート|1セット|アルミ|
 |トップケース|1セット|3Dプリンタ製|
 |ボトムケース|1セット|3Dプリンタ製|
-|ボトムプレート|1セット|3Dプリンタ製|
-|ネオジウム磁石 R3×1mm|8個|ボトムプレートに取付済|
-|ネオジウム磁石 R3×2mm|8個|ボトムケースに取付済|
-|M2×4mm 低頭精密小ねじ|26個|予備（2個）|
+|ネオジウム磁石 R10×2mm|10個|ボトムケース用|
+|M2×2.5mm 低頭精密小ねじ|8個||
 |樹脂スペーサー 6mm|8個||
 |M2×5mmプラスチックネジ|8個|トッププレート固定用|
-|M1.7×5ｍｍ 低頭精密小ねじ|2個|トラックボールケース取付用|
+|25mmトラックボールケース|1個|3Dプリンタ製|
+|ベアリング|3個|取り付け済 681XZZ|
+|M1.4×5mm なべ小ねじ|3個|取り付け済|
+|M1.7×5mm 低頭精密小ねじ|2個|トラックボールケース取付用|
 |ポロンシート|2枚||
 |滑り止めシール|8枚|+GRIPLUS+|
 
@@ -34,8 +36,7 @@
 |---|---|---|---|
 |キースイッチ|42個|ロープロファイル用(Choc V2系)|[Hades Low-profile Switches](https://www.lofree.co/products/hades-low-profile-pom-switches)|
 |キーキャップ|42個|17mmピッチ対応品|[Kotori Blank(Proto)](https://booth.pm/ja/items/6781056)|
-|トラックボールケース|1個|25mm用がおすすめ|[Kinoyaさん](https://kinoya.booth.pm/items/6830658)<br>[ntaさん](https://jp.mercari.com/item/m68170808083)|
-|トラックボール|1個|サイズはトラックボールケースに合わせてご準備ください|[M-B25RD](https://www.elecom.co.jp/products/M-B25RD.html)|
+|25mmトラックボール|1個||[M-B25RD](https://www.elecom.co.jp/products/M-B25RD.html)|
 |リチウムポリマーバッテリー|2個|厚さ4mm以下、JST1.25mmコネクタ|[Amazonリンク](https://www.amazon.co.jp/dp/B0FBW68HQP)|
 
 ### 組立てに必要な道具
