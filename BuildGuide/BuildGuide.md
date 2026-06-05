@@ -37,7 +37,7 @@
 |キースイッチ|42個|ロープロファイル用(Choc V2系)|[Hades Low-profile Switches](https://www.lofree.co/products/hades-low-profile-pom-switches)|
 |キーキャップ|42個|17mmピッチ対応品|[Kotori Blank(Proto)](https://booth.pm/ja/items/6781056)|
 |25mmトラックボール|1個||[M-B25RD](https://www.elecom.co.jp/products/M-B25RD.html)|
-|リチウムポリマーバッテリー|2個|厚さ4mm以下、JST1.25mmコネクタ|[Amazonリンク](https://www.amazon.co.jp/dp/B0FBW68HQP)|
+|リチウムポリマーバッテリー|2個|厚さ4mm以下、JST1.25mmコネクタ|[Amazonリンク](https://www.amazon.co.jp/dp/B0GGHFKWQW)|
 
 ### 組立てに必要な道具
 |品名|備考|
